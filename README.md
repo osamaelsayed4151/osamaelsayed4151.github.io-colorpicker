@@ -1,2 +1,1 @@
-# www.html5colorpicker.com
-Which Any Color Do You Love
+this is a color picker made by html5 and javascript 5 or javascript 6
